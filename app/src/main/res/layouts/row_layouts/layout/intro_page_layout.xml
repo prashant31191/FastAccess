@@ -13,7 +13,7 @@
         android:layout_gravity="top|center"
         android:orientation="vertical">
 
-        <com.fastaccess.ui.widgets.FontTextView
+        <com.fasty.ui.widgets.FontTextView
             android:id="@+id/introTitle"
             style="@style/TextAppearance.AppCompat.Title.Inverse"
             android:layout_width="match_parent"
@@ -32,7 +32,7 @@
             android:maxHeight="300dp"
             tools:src="@drawable/intro_screen_folder"/>
 
-        <com.fastaccess.ui.widgets.FontTextView
+        <com.fasty.ui.widgets.FontTextView
             android:id="@+id/introDescription"
             style="@style/TextAppearance.AppCompat.Subhead.Inverse"
             android:layout_width="match_parent"

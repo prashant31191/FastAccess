@@ -29,7 +29,7 @@
                 android:background="?colorPrimary"
                 app:title="@string/change_transparency">
 
-                <com.fastaccess.ui.widgets.ForegroundImageView
+                <com.fasty.ui.widgets.ForegroundImageView
                     android:id="@+id/done"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
@@ -48,7 +48,7 @@
     </android.support.design.widget.AppBarLayout>
 
 
-    <com.fastaccess.ui.widgets.FontTextView
+    <com.fasty.ui.widgets.FontTextView
         android:id="@+id/valueText"
         style="@style/TextAppearance.AppCompat.Title"
         android:layout_width="match_parent"

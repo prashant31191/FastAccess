@@ -9,7 +9,7 @@
 
     <fragment
         android:id="@+id/settingsFragment"
-        android:name="com.fastaccess.ui.modules.settings.SettingsFragmentView"
+        android:name="com.fasty.ui.modules.settings.SettingsFragmentView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:layout_behavior="@string/scroll_behavior"/>

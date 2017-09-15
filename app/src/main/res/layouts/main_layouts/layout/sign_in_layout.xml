@@ -21,7 +21,7 @@
             android:src="@drawable/ic_fa"
             android:contentDescription="@string/app_name"/>
 
-        <com.fastaccess.ui.widgets.FontTextView
+        <com.fasty.ui.widgets.FontTextView
             style="@style/TextAppearance.AppCompat.Title.Inverse"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

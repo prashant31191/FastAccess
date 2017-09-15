@@ -21,7 +21,7 @@
         android:scaleType="centerCrop"
         android:src="@drawable/ic_back_selector"/>
 
-    <com.fastaccess.ui.widgets.recyclerview.DynamicRecyclerView
+    <com.fasty.ui.widgets.recyclerview.DynamicRecyclerView
         android:id="@+id/recycler"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

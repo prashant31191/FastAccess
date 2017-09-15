@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.fastaccess.ui.widgets.recyclerview.DynamicRecyclerView
+    <com.fasty.ui.widgets.recyclerview.DynamicRecyclerView
         android:id="@+id/recycler"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

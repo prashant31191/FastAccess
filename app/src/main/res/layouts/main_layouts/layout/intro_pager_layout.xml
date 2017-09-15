@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <com.fastaccess.ui.widgets.ViewPagerView
+    <com.fasty.ui.widgets.ViewPagerView
         android:id="@+id/pager"
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -29,7 +29,7 @@
             app:piv_selectedColor="@color/white"
             app:piv_unselectedColor="?colorPrimary"/>
 
-        <com.fastaccess.ui.widgets.FontTextView
+        <com.fasty.ui.widgets.FontTextView
             android:id="@+id/introDone"
             style="@style/TextAppearance.AppCompat.Title.Inverse"
             android:layout_width="wrap_content"

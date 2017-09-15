@@ -31,7 +31,7 @@
                 android:elevation="@dimen/spacing_micro"
                 tools:src="@drawable/ic_fa"/>
 
-            <com.fastaccess.ui.widgets.FontTextView
+            <com.fasty.ui.widgets.FontTextView
                 android:id="@+id/folderName"
                 style="@style/TextAppearance.AppCompat.Title"
                 android:layout_width="0dp"
@@ -42,7 +42,7 @@
                 android:layout_weight="1"
                 tools:text="Folder Name"/>
 
-            <com.fastaccess.ui.widgets.FontTextView
+            <com.fasty.ui.widgets.FontTextView
                 android:id="@+id/appsCount"
                 style="@style/TextAppearance.AppCompat.Medium"
                 android:layout_width="wrap_content"
@@ -62,7 +62,7 @@
             android:gravity="end"
             android:orientation="horizontal">
 
-            <com.fastaccess.ui.widgets.FontTextView
+            <com.fasty.ui.widgets.FontTextView
                 android:id="@+id/delete"
                 style="@style/TextAppearance.AppCompat.Medium"
                 android:layout_width="0dp"
@@ -77,7 +77,7 @@
                 android:text="@string/delete"
                 android:textColor="#ff00"/>
 
-            <com.fastaccess.ui.widgets.FontTextView
+            <com.fasty.ui.widgets.FontTextView
                 android:id="@+id/addApps"
                 style="@style/TextAppearance.AppCompat.Medium"
                 android:layout_width="0dp"
@@ -92,7 +92,7 @@
                 android:text="@string/apps"
                 android:textColor="?colorPrimary"/>
 
-            <com.fastaccess.ui.widgets.FontTextView
+            <com.fasty.ui.widgets.FontTextView
                 android:id="@+id/editFolder"
                 style="@style/TextAppearance.AppCompat.Medium"
                 android:layout_width="0dp"

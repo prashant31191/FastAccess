@@ -33,7 +33,7 @@
         android:layout_height="?actionBarSize"
         android:background="?colorPrimary">
 
-        <com.fastaccess.ui.widgets.ForegroundImageView
+        <com.fasty.ui.widgets.ForegroundImageView
             android:id="@+id/searchIcon"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
@@ -46,7 +46,7 @@
             android:scaleType="centerCrop"
             android:src="@drawable/ic_search"/>
 
-        <com.fastaccess.ui.widgets.FontEditText
+        <com.fasty.ui.widgets.FontEditText
             android:id="@+id/searchEditText"
             style="@style/TextAppearance.Widget.AppCompat.Toolbar.Title"
             android:layout_width="0dp"
@@ -62,7 +62,7 @@
             android:textColor="@color/white"
             android:textColorHint="@color/divider"/>
 
-        <com.fastaccess.ui.widgets.ForegroundImageView
+        <com.fasty.ui.widgets.ForegroundImageView
             android:id="@+id/clear"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"

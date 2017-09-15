@@ -15,7 +15,7 @@
         android:layout_weight="0.4"
         android:orientation="vertical">
 
-        <com.fastaccess.ui.widgets.FontTextView
+        <com.fasty.ui.widgets.FontTextView
             style="@style/TextAppearance.AppCompat.Title.Inverse"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -48,7 +48,7 @@
         android:layout_weight="1"
         android:orientation="vertical">
 
-        <com.fastaccess.ui.widgets.FontTextView
+        <com.fasty.ui.widgets.FontTextView
             style="@style/TextAppearance.AppCompat.Title.Inverse"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -70,7 +70,7 @@
                 android:gravity="center"
                 android:orientation="horizontal">
 
-                <com.fastaccess.ui.widgets.ForegroundImageView
+                <com.fasty.ui.widgets.ForegroundImageView
                     android:id="@+id/facebook"
                     android:layout_width="58dp"
                     android:layout_height="58dp"
@@ -79,7 +79,7 @@
                     android:foreground="?selectableItemBackgroundBorderless"
                     android:src="@drawable/ic_facebook"/>
 
-                <com.fastaccess.ui.widgets.ForegroundImageView
+                <com.fasty.ui.widgets.ForegroundImageView
                     android:id="@+id/twitter"
                     android:layout_width="58dp"
                     android:layout_height="58dp"
@@ -88,7 +88,7 @@
                     android:foreground="?selectableItemBackgroundBorderless"
                     android:src="@drawable/ic_twitter"/>
 
-                <com.fastaccess.ui.widgets.ForegroundImageView
+                <com.fasty.ui.widgets.ForegroundImageView
                     android:id="@+id/gPlus"
                     android:layout_width="58dp"
                     android:layout_height="58dp"
@@ -97,7 +97,7 @@
                     android:foreground="?selectableItemBackgroundBorderless"
                     android:src="@drawable/ic_google_plus"/>
 
-                <com.fastaccess.ui.widgets.ForegroundImageView
+                <com.fasty.ui.widgets.ForegroundImageView
                     android:id="@+id/github"
                     android:layout_width="58dp"
                     android:layout_height="58dp"

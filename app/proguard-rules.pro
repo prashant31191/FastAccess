@@ -13,11 +13,11 @@
     java.lang.Object writeReplace();
     java.lang.Object readResolve();
 }
--keepclassmembers class com.fastaccess.data.** {
+-keepclassmembers class fasty.data.** {
   *;
 }
 
--keep class com.fastaccess.ui.widgets.** { *; }
+-keep class fasty.ui.widgets.** { *; }
 
 -keep class .R
 -keep class **.R$* {

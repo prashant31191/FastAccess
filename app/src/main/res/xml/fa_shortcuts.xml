@@ -12,7 +12,7 @@
         tools:targetApi="n_mr1">
         <intent
             android:action="FOLDER_MODE"
-            android:targetClass="com.fastaccess.ui.modules.main.MainView"
+            android:targetClass="com.fasty.ui.modules.main.MainView"
             android:targetPackage="com.styleme.floating.toolbox.pro"/>
     </shortcut>
 
@@ -26,7 +26,7 @@
         tools:targetApi="n_mr1">
         <intent
             android:action="APPS_MODE"
-            android:targetClass="com.fastaccess.ui.modules.main.MainView"
+            android:targetClass="com.fasty.ui.modules.main.MainView"
             android:targetPackage="com.styleme.floating.toolbox.pro"/>
     </shortcut>
 </shortcuts>

@@ -33,7 +33,7 @@
             app:counterMaxLength="10"
             app:hintTextAppearance="@style/TextAppearance.AppCompat.Title">
 
-            <com.fastaccess.ui.widgets.FontEditText
+            <com.fasty.ui.widgets.FontEditText
                 android:id="@+id/folderNameEditText"
                 style="@style/TextAppearance.AppCompat.Title"
                 android:layout_width="match_parent"
@@ -53,14 +53,14 @@
         android:gravity="end"
         android:orientation="horizontal">
 
-        <com.fastaccess.ui.widgets.FontButton
+        <com.fasty.ui.widgets.FontButton
             android:id="@+id/cancel"
             style="@style/Widget.AppCompat.Button.Borderless.Colored"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/cancel"/>
 
-        <com.fastaccess.ui.widgets.FontButton
+        <com.fasty.ui.widgets.FontButton
             android:id="@+id/save"
             style="@style/Widget.AppCompat.Button.Borderless.Colored"
             android:layout_width="wrap_content"
